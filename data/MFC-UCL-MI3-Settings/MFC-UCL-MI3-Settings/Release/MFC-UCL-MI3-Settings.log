@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  MFC-UCL-MI3-Settings.cpp
+  MFC-UCL-MI3-SettingsDlg.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\josep\Documents\GitHub\MI_PseudoVR_Settings_MFC\data\MFC-UCL-MI3-Settings\MFC-UCL-MI3-Settings\MFC-UCL-MI3-SettingsDlg.cpp(181,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1824 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MFC-UCL-MI3-Settings.vcxproj -> C:\Users\josep\Documents\GitHub\MI_PseudoVR_Settings_MFC\data\MFC-UCL-MI3-Settings\Release\MFC-UCL-MI3-Settings.exe

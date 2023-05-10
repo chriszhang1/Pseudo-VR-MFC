@@ -1,0 +1,5 @@
+﻿  MFC-UCL-MI3-SettingsDlg.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Abriele Qudsi\Documents\sys_eng\MI_PseudoVR_Settings_MFC\data\MFC-UCL-MI3-Settings\MFC-UCL-MI3-Settings\MFC-UCL-MI3-SettingsDlg.cpp(181,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  LINK : C:\Users\Abriele Qudsi\Documents\sys_eng\MI_PseudoVR_Settings_MFC\data\MFC-UCL-MI3-Settings\..\..\MFC-UCL-MI3-Settings.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Abriele Qudsi\Documents\sys_eng\MI_PseudoVR_Settings_MFC\data\MFC-UCL-MI3-Settings\..\..\MFC-UCL-MI3-Settings.exe'
